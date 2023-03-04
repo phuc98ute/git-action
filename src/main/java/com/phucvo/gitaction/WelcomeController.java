@@ -9,6 +9,6 @@ public class WelcomeController {
 
     @PostConstruct
     public void welcome() {
-        System.out.println("Welcome to git action");
+        System.out.println("Welcome to git action!!");
     }
 }
